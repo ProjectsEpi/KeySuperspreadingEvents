@@ -1,4 +1,5 @@
-# KeySuperspreadingEvents Figures on scenario projections in the preprint https://www.medrxiv.org/content/10.1101/2021.04.14.21255436v2.full.pdf
+# KeySuperspreadingEvents 
+Figures on scenario projections in the preprint https://www.medrxiv.org/content/10.1101/2021.04.14.21255436v2.full.pdf
 html files for the evolution of the epidemic in all Mexican states. 
 Figure details: In each file
 Rows from top to bottom: incidence, mortality and reproductive number
