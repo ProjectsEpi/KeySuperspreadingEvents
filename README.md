@@ -4,6 +4,6 @@ html files for the evolution of the epidemic in all Mexican states.
 
 Folder details: Each folder is named ParametersEstimation_ddmmyyy, where ddmmyyyy represents the date until the data were considered for the estimates.
 
-Figure details: In each file rows from top to bottom: incidence, mortality and effective reproductive number and columns from left to right: vaccine coverage in one year: 30%, 50%, 70%
+Figure details: Rows from top to bottom represent incidence, mortality and effective reproductive number, respectively. Columns from left to right illustrate vaccine coverage, in one year, of 30%, 50%, 70%, respectively.
 
 To view the html files in your web browser, please download them in a zip file then adjust with your zoom function for a complete view of each graph.
